@@ -92,4 +92,3 @@ It specifies the output mode as append, sets options for Elasticsearch connectio
 The streaming query is initiated and awaits termination.
 
 # Step 4 >> Creating Kibana Visualizations based on streaming data
-![image](https://github.com/Sinan-Simsek/Visualizing-Streaming-IoT-Data-of-a-Smart-Building-System/assets/108238930/3208382b-ab12-4fd2-903f-8400e3e2e607)
